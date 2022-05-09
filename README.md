@@ -13,6 +13,8 @@ CDN Access Online
 For CDN access online:
 https://raw.githubusercontent.com/Mr-Coxall/ComicMonoNF/master/index.css
 
+Use font name: "Comic Mono"
+
 License
 -------
 It is licensed under the [MIT License][5].
