@@ -17,3 +17,6 @@ It is licensed under the [MIT License][5].
 [3]: https://github.com/xtevenx/ComicMonoNF/raw/master/ComicMonoNF.ttf
 [4]: https://github.com/xtevenx/ComicMonoNF/raw/master/ComicMonoNF-Bold.ttf
 [5]: https://github.com/xtevenx/ComicMonoNF/blob/master/LICENSE
+
+For CDN access online:
+https://raw.githubusercontent.com/Mr-Coxall/ComicMonoNF/master/index.css
