@@ -9,3 +9,9 @@
   font-weight: bold;
   src: url(./ComicMonoNF-Bold.ttf);
 }
+
+@font-face {
+  font-family: ComicShannsMono Nerd Font;
+  font-weight: normal;
+  src: url(./ComicShannsMono-Regular.ttf);
+}
